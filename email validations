@@ -1,0 +1,4 @@
+
+# Basic e-mail validation for use with Ruby/Rails
+
+VALID_EMAIL_REGEX = /\A[\w+\-.]+@[a-z\d\-]+(\.[a-z\d\-]+)*\.[a-z]+\z/i
